@@ -2,7 +2,7 @@ package com.company;
 
 public class Gato extends Animal{
     private int alturaSalto;
-    private int numeroVida = 7;
+    private int numeroVida = 8;
 
     public int getAlturaSalto() {
         return alturaSalto;
